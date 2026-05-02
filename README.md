@@ -15,35 +15,6 @@
 
 </div>
 <div align="center">
-
-<br />
-
-```
- ██╗   ██╗███████╗██╗  ██╗████████╗ ██████╗ ██████╗
- ██║   ██║██╔════╝██║ ██╔╝╚══██╔══╝██╔═══██╗██╔══██╗
- ██║   ██║█████╗  █████╔╝    ██║   ██║   ██║██████╔╝
- ╚██╗ ██╔╝██╔══╝  ██╔═██╗    ██║   ██║   ██║██╔══██╗
-  ╚████╔╝ ███████╗██║  ██╗   ██║   ╚██████╔╝██║  ██║
-   ╚═══╝  ╚══════╝╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝
-                          M E M O R Y
-```
-
-**Persistent memory infrastructure for AI agents.**
-
-Local-first. Sovereign. No cloud. No amnesia. No lock-in.
-
-[![npm](https://img.shields.io/npm/v/vektor-slipstream?style=flat-square&color=0F6E56&label=vektor-slipstream)](https://www.npmjs.com/package/vektor-slipstream)
-[![downloads](https://img.shields.io/npm/dw/vektor-slipstream?style=flat-square&color=185FA5)](https://www.npmjs.com/package/vektor-slipstream)
-[![LoCoMo](https://img.shields.io/badge/LoCoMo_benchmark-66.9%25-854F0B?style=flat-square)](https://arxiv.org/abs/2402.17753)
-[![recall](https://img.shields.io/badge/recall_latency-sub--1ms-0F6E56?style=flat-square)](#)
-[![Vex](https://img.shields.io/badge/Vex-Apache_2.0-533AB7?style=flat-square)](https://github.com/Vektor-Memory/Vex)
-
-[vektormemory.com](https://vektormemory.com) &nbsp;·&nbsp; [Docs](https://vektormemory.com/docs) &nbsp;·&nbsp; [Downloads](https://vektormemory.com/downloads) &nbsp;·&nbsp; [Medium](https://medium.com/@vektormemory)
-
-<br />
-
-</div>
-
 ---
 
 ## What we build
