@@ -1,6 +1,6 @@
 <div align="center">
 
-# VEKTOR MEMORY - Slipstream
+# VEKTOR MEMORY
 
 ### Persistent memory for AI agents. Local-first. No cloud. No amnesia.
 
