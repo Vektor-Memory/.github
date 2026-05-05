@@ -97,15 +97,15 @@ Zero dependencies. Node.js 18+. Runs on Windows, macOS, and Linux.
 
 ---
 
-## Mcp-Sync
+## Vek-Sync
 
-Open source. Free. Mit*
+> *Open source. Free. Apache 2.0.*
 
-mcp-sync is a standalone CLI tool that keeps your MCP (Model Context Protocol) server configurations in sync across all your AI editors — Claude Desktop, Cursor, VS Code, Windsurf, and Claude Code. No account. No cloud. Just a single .mcp.json file and one command.
+Vek-sync is a standalone CLI tool that keeps your MCP (Model Context Protocol) server configurations in sync across all your AI editors — Claude Desktop, Cursor, VS Code, Windsurf, and Claude Code. No account. No cloud. Just a single .mcp.json file and one command.
 
 Define your servers once in .mcp.json. Push to every editor with one command. Pull from any editor to bootstrap the file. Store secrets safely in an encrypted local vault.
 
-https://github.com/Vektor-Memory/Mcp-Sync
+https://github.com/Vektor-Memory/Vek-Sync
 
 <div align="center">
 
