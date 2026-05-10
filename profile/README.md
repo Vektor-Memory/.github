@@ -122,42 +122,6 @@ https://github.com/Vektor-Memory/Vek-Sync
   <p style="font-size:15px;line-height:1.7;margin:0">Via is the universal integration layer for AI tools. It connects Claude, Cursor, Windsurf, and ChatGPT to a shared memory, task board, and context bus — so your work follows you across every tool, every session, every machine.</p>
 </div>
 
-<p style="font-size:15px;line-height:1.7;margin:0 0 1.5rem">No more "let me bring you up to speed." The context is already there.</p>
-
-<div style="background:var(--color-background-secondary);border-radius:var(--border-radius-md);padding:1rem 1.25rem;margin:0 0 1.5rem;font-family:var(--font-mono);font-size:13px;color:var(--color-text-primary)">
-  npm install -g @vektormemory/via<br>
-  via init
-</div>
-
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(0,1fr));gap:10px;margin:0 0 1.5rem">
-  <div style="background:var(--color-background-primary);border:0.5px solid var(--color-border-tertiary);border-radius:var(--border-radius-lg);padding:1rem 1.25rem">
-    <p style="font-size:12px;font-weight:500;color:var(--color-text-secondary);margin:0 0 6px"><i class="ti ti-cpu" aria-hidden="true"></i> via memory</p>
-    <p style="font-size:13px;line-height:1.6;color:var(--color-text-primary);margin:0">Indexes your codebase — extracts symbols and import edges. Search returns related files, not just text matches.</p>
-  </div>
-  <div style="background:var(--color-background-primary);border:0.5px solid var(--color-border-tertiary);border-radius:var(--border-radius-lg);padding:1rem 1.25rem">
-    <p style="font-size:12px;font-weight:500;color:var(--color-text-secondary);margin:0 0 6px"><i class="ti ti-arrows-diff" aria-hidden="true"></i> via diff</p>
-    <p style="font-size:13px;line-height:1.6;color:var(--color-text-primary);margin:0">Compare what Claude and Cursor said about the same prompt — side by side, with similarity score and unique terms.</p>
-  </div>
-  <div style="background:var(--color-background-primary);border:0.5px solid var(--color-border-tertiary);border-radius:var(--border-radius-lg);padding:1rem 1.25rem">
-    <p style="font-size:12px;font-weight:500;color:var(--color-text-secondary);margin:0 0 6px"><i class="ti ti-transform" aria-hidden="true"></i> via convert</p>
-    <p style="font-size:13px;line-height:1.6;color:var(--color-text-primary);margin:0">Convert any file locally — audio, video, docs, images, archives. Pipe output straight into memory with <code>--ingest</code>.</p>
-  </div>
-</div>
-
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(0,1fr));gap:10px;margin:0 0 1.5rem">
-  <div style="background:var(--color-background-primary);border:0.5px solid var(--color-border-tertiary);border-radius:var(--border-radius-lg);padding:1rem 1.25rem">
-    <p style="font-size:12px;font-weight:500;color:var(--color-text-secondary);margin:0 0 6px"><i class="ti ti-list-check" aria-hidden="true"></i> via task</p>
-    <p style="font-size:13px;line-height:1.6;color:var(--color-text-primary);margin:0">Shared task board every AI tool can read and write via MCP. One board, all tools.</p>
-  </div>
-  <div style="background:var(--color-background-primary);border:0.5px solid var(--color-border-tertiary);border-radius:var(--border-radius-lg);padding:1rem 1.25rem">
-    <p style="font-size:12px;font-weight:500;color:var(--color-text-secondary);margin:0 0 6px"><i class="ti ti-activity" aria-hidden="true"></i> via log</p>
-    <p style="font-size:13px;line-height:1.6;color:var(--color-text-primary);margin:0">Unified activity log. Auto-captures Claude Code sessions with <code>--scan</code> or <code>--watch</code>.</p>
-  </div>
-  <div style="background:var(--color-background-primary);border:0.5px solid var(--color-border-tertiary);border-radius:var(--border-radius-lg);padding:1rem 1.25rem">
-    <p style="font-size:12px;font-weight:500;color:var(--color-text-secondary);margin:0 0 6px"><i class="ti ti-server" aria-hidden="true"></i> via serve</p>
-    <p style="font-size:13px;line-height:1.6;color:var(--color-text-primary);margin:0">Runs as an MCP server. 8 tools exposed to Claude Desktop, Cursor, and Windsurf natively.</p>
-  </div>
-</div>
 
 <div style="border-top:0.5px solid var(--color-border-tertiary);padding-top:1.25rem;margin:0 0 1rem">
   <p style="font-size:13px;color:var(--color-text-secondary);margin:0 0 8px;font-weight:500">Architecture</p>
