@@ -83,7 +83,10 @@ Cloak ships inside every Slipstream installation. No separate install.
 
 ---
 
-### Vex
+<div align="center">
+
+<div style="text-align:center;padding:2rem 0 1.5rem">
+  <h1 style="font-size:22px;font-weight:500;margin:0 0 4px">Vex</h1>
 
 > *Open source. Free. Apache 2.0.*
 
@@ -97,7 +100,10 @@ Zero dependencies. Node.js 18+. Runs on Windows, macOS, and Linux.
 
 ---
 
-## Vek-Sync
+<div align="center">
+
+<div style="text-align:center;padding:2rem 0 1.5rem">
+  <h1 style="font-size:22px;font-weight:500;margin:0 0 4px">Vek-Sync</h1>
 
 > *Open source. Free. Apache 2.0.*
 
