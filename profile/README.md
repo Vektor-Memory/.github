@@ -2,14 +2,12 @@
 
 # VEKTOR MEMORY
 
-### Persistent memory for AI agents. Local-first. No cloud. No amnesia.
-
-[![npm version](https://img.shields.io/npm/v/vektor-slipstream?style=flat-square&color=0F6E56&label=npm)](https://www.npmjs.com/package/vektor-slipstream)
-[![downloads](https://img.shields.io/npm/dw/@vektormemory/via?style=flat-square&color=185FA5&label=weekly+downloads)](https://www.npmjs.com/~vektormemory)
+### Vector memory for agentic AI. Local-first. Private. Soveriegn.
+[![Longmemeeval benchmark](https://img.shields.io/badge/longmemeval-79%25-854F0B?style=flat-square)](https://arxiv.org/abs/2605.12493)
 [![LoCoMo benchmark](https://img.shields.io/badge/LoCoMo-66.9%25-854F0B?style=flat-square)](https://arxiv.org/abs/2402.17753)
-[![recall latency](https://img.shields.io/badge/recall-sub--1ms-0F6E56?style=flat-square)](#performance)
+[![recall latency](https://img.shields.io/badge/recall-sub--8ms-0F6E56?style=flat-square)](#performance)
 [![license](https://img.shields.io/badge/license-Commercial-533AB7?style=flat-square)](https://vektormemory.com/product#pricing)
-[![MCP tools](https://img.shields.io/badge/MCP_tools-44-185FA5?style=flat-square)](#mcp-tools)
+[![MCP tools](https://img.shields.io/badge/MCP_tools-50+-185FA5?style=flat-square)](#mcp-tools)
 
 **[Documentation](https://vektormemory.com/docs) · [Install](#install) · [Quick Start](#quick-start) · [MCP Tools](#mcp-tools) · [Pricing](https://vektormemory.com/product#pricing)**
 
