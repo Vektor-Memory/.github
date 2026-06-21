@@ -137,6 +137,7 @@ https://github.com/Vektor-Memory/Vek-Sync
   <a href="https://github.com/Vektor-Memory/Via" style="font-size:13px;color:var(--color-text-info);text-decoration:none"><i class="ti ti-brand-github" aria-hidden="true">
     
   </i> github.com/Vektor-Memory/Via</a>
+  </div>
   <span style="font-size:13px;color:var(--color-text-secondary)">Node.js 18+</span>
   <span style="font-size:13px;color:var(--color-text-secondary)">Windows · macOS · Linux</span>
   <span style="font-size:13px;color:var(--color-text-secondary)">Zero runtime dependencies</span>
