@@ -46,7 +46,7 @@ We build memory infrastructure: the storage layer, the recall engine, and the to
 <br />
 
 <div style="text-align:center;padding:2rem 0 1.5rem">
-<h1 style="font-size:22px;font-weight:500;margin:0 0 4px">SLIPSTREAM</h1>
+<h1 style="font-size:22px;font-weight:500;margin:0 0 4px">Slipstream</h1>
 
 > *The MCP memory server.*
 
