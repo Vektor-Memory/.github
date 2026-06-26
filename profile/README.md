@@ -49,7 +49,7 @@ We build memory infrastructure: the storage layer, the recall engine, and the to
 
 > *The MCP memory server.*
 
-Slipstream is a 44-tool MCP server that plugs directly into Claude, Cursor, Windsurf, or any MCP-compatible agent runtime. It gives agents a structured, persistent memory that survives sessions — stored locally in SQLite, recalled in under 1ms via dual-channel BM25 and vector search fused through Reciprocal Rank Fusion.
+Slipstream is a 50+ tool MCP server that plugs directly into Claude, Cursor, Windsurf, or any MCP-compatible agent runtime. It gives agents a structured, persistent memory that survives sessions — stored locally in SQLite, recalled in under 1ms via dual-channel BM25 and vector search fused through Reciprocal Rank Fusion.
 
 Memory in Slipstream is not a flat key-value store. It is a self-organising 4-layer graph — episodic, semantic, procedural, and strategic — where facts are linked by Zettelkasten-style edges and weighted by a reinforcement learning scorer that promotes memories which have actually influenced past responses. Over time, the memory surface adapts to what the agent uses.
 
