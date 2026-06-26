@@ -45,7 +45,8 @@ We build memory infrastructure: the storage layer, the recall engine, and the to
 
 <br />
 
-### Slipstream
+<div style="text-align:center;padding:2rem 0 1.5rem">
+<h1 style="font-size:22px;font-weight:500;margin:0 0 4px">SLIPSTREAM</h1>
 
 > *The MCP memory server.*
 
@@ -66,7 +67,7 @@ Distributed via npm. Commercial licence. $9/month.
 <div align="center">
 
 <div style="text-align:center;padding:2rem 0 1.5rem">
-  <h1 style="font-size:22px;font-weight:500;margin:0 0 4px">Cloak</h1>
+<h1 style="font-size:22px;font-weight:500;margin:0 0 4px">Cloak</h1>
 
 > *Hands for your agent. Bundled inside Slipstream.*
 
