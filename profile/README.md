@@ -146,7 +146,7 @@ https://github.com/Vektor-Memory/Vek-Sync
 
 <br />
 
-*Built on peer-reviewed research &nbsp;·&nbsp; Longmemeval 79% - LoCoMo 66.9% &nbsp;·&nbsp; sub-8ms recall*
+*Built on peer-reviewed research &nbsp;·&nbsp; Longmemeval 81% - LoCoMo 66.9% &nbsp;·&nbsp; sub-8ms recall*
 
 [hello@vektormemory.com](mailto:hello@vektormemory.com) &nbsp;·&nbsp; [Security](https://vektormemory.com/security) &nbsp;·&nbsp; [Privacy](https://vektormemory.com/privacy)
 
