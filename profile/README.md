@@ -116,7 +116,19 @@ Define your servers once in .mcp.json. Push to every editor with one command. Pu
 https://github.com/Vektor-Memory/Vek-Sync
 
 ---
+<div align="center">
+<div style="text-align:center;padding:2rem 0 1.5rem">
+  <h1 style="font-size:22px;font-weight:500;margin:0 0 4px">Provenance</h1>
+</div>
+</div>
 
+> *Open source. Free. Apache 2.0.*
+
+Provenance is a standalone CLI tool that gives you cryptographic proof of what your code looked like, and when. No account. No cloud. Just your source tree, a Merkle-tree manifest, and two independent timestamp authorities anchoring it in time.
+
+Stamp proprietary headers into every file with `prov stamp`. Snapshot the codebase into a tamper-evident manifest bound to your git commit with `prov manifest`. Anchor that manifest with `prov timestamp` — dual-anchored via RFC 3161 (FreeTSA) and OpenTimestamps (Bitcoin), so no single timestamping authority is a point of failure. Verify any snapshot later with `prov verify`.
+
+https://github.com/Vektor-Memory/Provenance
 <div align="center">
 
 <div style="text-align:center;padding:2rem 0 1.5rem">
