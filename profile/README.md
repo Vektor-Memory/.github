@@ -133,9 +133,10 @@ https://github.com/Vektor-Memory/Provenance
 
 <div style="text-align:center;padding:2rem 0 1.5rem">
   <h1 style="font-size:22px;font-weight:500;margin:0 0 4px">Via</h1>
-  <p style="font-size:15px;color:var(--color-text-secondary);margin:0">Open source. Free. Apache 2.0.</p>
+  <p style="font-size:15px;color:var(--color-text-secondary);margin:0">
 </div>
 
+> *Open source. Free. Apache 2.0.*
 <div style="border-left:2px solid var(--color-border-secondary);padding:0 0 0 1rem;margin:0 0 1.5rem">
   <p style="font-size:15px;line-height:1.7;margin:0">Via is the universal integration layer for AI tools. It connects Claude, Cursor, Windsurf, and ChatGPT to a shared memory, task board, and context bus — so your work follows you across every tool, every session, every machine.</p>
 </div>
