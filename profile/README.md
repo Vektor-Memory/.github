@@ -5,7 +5,7 @@
 ### Vector memory for agentic AI. Local-first. Private Focused. Soveriegn Data.
 [![Longmemeeval benchmark](https://img.shields.io/badge/longmemeval-81%25-854F0B?style=flat-square)](https://arxiv.org/abs/2605.12493)
 [![LoCoMo benchmark](https://img.shields.io/badge/LoCoMo-66.9%25-854F0B?style=flat-square)](https://arxiv.org/abs/2402.17753)
-[![recall latency](https://img.shields.io/badge/recall-sub--8ms-0F6E56?style=flat-square)](#performance)
+[![recall latency](https://img.shields.io/badge/recall-sub--28ms-0F6E56?style=flat-square)](#performance)
 [![license](https://img.shields.io/badge/license-Commercial-533AB7?style=flat-square)](https://vektormemory.com/product#pricing)
 [![MCP tools](https://img.shields.io/badge/MCP_tools-50+-185FA5?style=flat-square)](#mcp-tools)
 
@@ -160,7 +160,7 @@ https://github.com/Vektor-Memory/Provenance
 
 <br />
 
-*Built on peer-reviewed research &nbsp;·&nbsp; Longmemeval 81% - LoCoMo 66.9% &nbsp;·&nbsp; sub-8ms recall*
+*Built on peer-reviewed research &nbsp;·&nbsp; Longmemeval 81% - LoCoMo 66.9% &nbsp;·&nbsp; sub-28ms recall*
 
 [hello@vektormemory.com](mailto:hello@vektormemory.com) &nbsp;·&nbsp; [Security](https://vektormemory.com/security) &nbsp;·&nbsp; [Privacy](https://vektormemory.com/privacy)
 
