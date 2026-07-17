@@ -152,36 +152,39 @@ https://github.com/Vektor-Memory/Vorwatch
 </div>
 <div align="center">
 
-<div style="text-align:center;padding:2rem 0 1.5rem">
-<h1 style="font-size:22px;font-weight:500;margin:0 0 4px">Via</h1>
+<div align="center">
 
-> *Open source. Free. Apache 2.0.*
-</div>
-</div>
-<div style="border-left:2px solid var(--color-border-secondary);padding:0 0 0 1rem;margin:0 0 1.5rem">
-  <p style="font-size:15px;line-height:1.7;margin:0">Via is the universal integration layer for AI tools. It connects Claude, Cursor, Windsurf, and ChatGPT to a shared memory, task board, and context bus — so your work follows you across every tool, every session, every machine.</p>
-</div>
-</div>
-</i> https://github.com/Vektor-Memory/Via</a>
-</div>
-</div>
-  <div align="center">
-  <span style="font-size:13px;color:var(--color-text-secondary)">Node.js 18+</span>
-  <span style="font-size:13px;color:var(--color-text-secondary)">Windows · macOS · Linux</span>
-  <span style="font-size:13px;color:var(--color-text-secondary)">Zero runtime dependencies</span>
-</div>
-</div>
-<div style="border-top:0.5px solid var(--color-border-tertiary);padding-top:1.25rem;margin:0 0 1rem">
-  <p style="font-size:13px;color:var(--color-text-secondary);margin:0 0 8px;font-weight:500">Architecture</p>
-  <p style="font-size:13px;line-height:1.7;color:var(--color-text-primary);margin:0">SQLite locally for everything. No embeddings, no API calls, no cloud. The memory graph is pure SQLite — nodes are files, edges are import relationships. For semantic search and team-shared context, upgrade to <a href="https://vektormemory.com" style="color:var(--color-text-info)">Vektor Slipstream</a>.</p>
-</div>
-</div>
-<div style="border-top:0.5px solid var(--color-border-tertiary);padding-top:1.25rem;display:flex;gap:1rem;flex-wrap:wrap;align-items:center">
-<a href="https://github.com/Vektor-Memory/Via" style="font-size:13px;color:var(--color-text-info);text-decoration:none"><i class="ti ti-brand-github" aria-hidden="true">
-</div>
+# Via
+
+**Open source. Free. Apache 2.0.**
+
+Via is the universal integration layer for AI tools. It connects Claude, Cursor, Windsurf, and ChatGPT to a shared memory, task board, and context bus — so your work follows you across every tool, every session, every machine.
+
+**[github.com/Vektor-Memory/Via](https://github.com/Vektor-Memory/Via)**
+
+`Node.js 18+` · `Windows · macOS · Linux` · `Zero runtime dependencies`
+
 </div>
 
+---
 
+<div align="center">
+
+## Architecture
+
+SQLite locally for everything. No embeddings, no API calls, no cloud. The memory graph is pure SQLite — nodes are files, edges are import relationships. For semantic search and team-shared context, upgrade to [Vektor Slipstream](https://vektormemory.com/).
+
+</div>
+
+---
+
+<div align="center">
+
+Built on peer-reviewed research · LongMemEval 81% · LoCoMo 66.9% · sub-28ms recall
+
+[hello@vektormemory.com](mailto:hello@vektormemory.com) · [Security](https://vektormemory.com/security) · [Privacy](https://vektormemory.com/privacy)
+
+</div>
 <br />
 
 *Built on peer-reviewed research &nbsp;·&nbsp; Longmemeval 81% - LoCoMo 66.9% &nbsp;·&nbsp; sub-28ms recall*
