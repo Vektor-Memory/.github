@@ -123,7 +123,8 @@ https://github.com/Vektor-Memory/Vek-Sync
 </div>
 
 > *Open source. Free. Apache 2.0.*
-
+</div>
+</div>
 Provenance is a standalone CLI tool that gives you cryptographic proof of what your code looked like, and when. No account. No cloud. Just your source tree, a Merkle-tree manifest, and two independent timestamp authorities anchoring it in time.
 
 Stamp proprietary headers into every file with `prov stamp`. Snapshot the codebase into a tamper-evident manifest bound to your git commit with `prov manifest`. Anchor that manifest with `prov timestamp` — dual-anchored via RFC 3161 (FreeTSA) and OpenTimestamps (Bitcoin), so no single timestamping authority is a point of failure. Verify any snapshot later with `prov verify`.
@@ -138,6 +139,8 @@ https://github.com/Vektor-Memory/Provenance
 </div>
 
 > *Open source. Free. Apache 2.0.*
+</div>
+</div>
 Vörwatch is a standalone CLI tool that watches a Linux server for the signs that usually show up early in a compromise, and tells you what it found. No daemon. No database. No cloud dashboard. Just one bash script, your cron table, and flat files on the box itself.
 Capture a known-good baseline with vorwatch baseline. Run a detection pass — file integrity, listening ports, outbound connections, process trees, package vulnerabilities, rootkit signatures, hardening drift — with vorwatch check. Wire it up to run on its own with vorwatch install. Pull a text or JSON summary anytime with vorwatch report, or let it land in your inbox on a schedule. It's recommend-only by design — Vörwatch never bans, blocks, or touches iptables. Every alert tells you the exact command to run yourself.
 https://github.com/Vektor-Memory/Vorwatch
