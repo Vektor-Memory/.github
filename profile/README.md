@@ -161,6 +161,7 @@ https://github.com/Vektor-Memory/Vorwatch
 <div style="border-left:2px solid var(--color-border-secondary);padding:0 0 0 1rem;margin:0 0 1.5rem">
   <p style="font-size:15px;line-height:1.7;margin:0">Via is the universal integration layer for AI tools. It connects Claude, Cursor, Windsurf, and ChatGPT to a shared memory, task board, and context bus — so your work follows you across every tool, every session, every machine.</p>
 </div>
+</div>
   </i> https://github.com/Vektor-Memory/Via</a>
   </div>
   <span style="font-size:13px;color:var(--color-text-secondary)">Node.js 18+</span>
