@@ -185,10 +185,3 @@ Built on peer-reviewed research · LongMemEval 81% · LoCoMo 66.9% · sub-28ms r
 [hello@vektormemory.com](mailto:hello@vektormemory.com) · [Security](https://vektormemory.com/security) · [Privacy](https://vektormemory.com/privacy)
 
 </div>
-<br />
-
-*Built on peer-reviewed research &nbsp;·&nbsp; Longmemeval 81% - LoCoMo 66.9% &nbsp;·&nbsp; sub-28ms recall*
-
-[hello@vektormemory.com](mailto:hello@vektormemory.com) &nbsp;·&nbsp; [Security](https://vektormemory.com/security) &nbsp;·&nbsp; [Privacy](https://vektormemory.com/privacy)
-
-</div>
