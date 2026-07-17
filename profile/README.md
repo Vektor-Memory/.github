@@ -156,7 +156,7 @@ https://github.com/Vektor-Memory/Vorwatch
 
 # Via
 
-**Open source. Free. Apache 2.0.**
+> *Open source. Free. Apache 2.0.*
 
 Via is the universal integration layer for AI tools. It connects Claude, Cursor, Windsurf, and ChatGPT to a shared memory, task board, and context bus — so your work follows you across every tool, every session, every machine.
 
