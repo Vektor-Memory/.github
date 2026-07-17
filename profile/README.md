@@ -88,7 +88,7 @@ Cloak ships inside every Slipstream installation. No separate install.
 <div align="center">
 
 <div style="text-align:center;padding:2rem 0 1.5rem">
-  <h1 style="font-size:22px;font-weight:500;margin:0 0 4px">Vex</h1>
+<h1 style="font-size:22px;font-weight:500;margin:0 0 4px">Vex</h1>
 
 > *Open source. Free. Apache 2.0.*
 
@@ -151,8 +151,10 @@ https://github.com/Vektor-Memory/Vorwatch
 </div>
 </div>
 <div align="center">
+
 <div style="text-align:center;padding:2rem 0 1.5rem">
-  <h1 style="font-size:22px;font-weight:500;margin:0 0 4px">Via</h1>
+<h1 style="font-size:22px;font-weight:500;margin:0 0 4px">Via</h1>
+
 > *Open source. Free. Apache 2.0.*
 </div>
 </div>
