@@ -129,12 +129,11 @@ Provenance is a standalone CLI tool that gives you cryptographic proof of what y
 Stamp proprietary headers into every file with `prov stamp`. Snapshot the codebase into a tamper-evident manifest bound to your git commit with `prov manifest`. Anchor that manifest with `prov timestamp` — dual-anchored via RFC 3161 (FreeTSA) and OpenTimestamps (Bitcoin), so no single timestamping authority is a point of failure. Verify any snapshot later with `prov verify`.
 
 https://github.com/Vektor-Memory/Provenance
-<div align="center">
-
-<div style="text-align:center;padding:2rem 0 1.5rem">
-  <h1 style="font-size:22px;font-weight:500;margin:0 0 4px">Via</h1>
-  <p style="font-size:15px;color:var(--color-text-secondary);margin:0">
-</div>
+Vörwatch
+Open source. Free. Apache 2.0.
+Vörwatch is a standalone CLI tool that watches a Linux server for the signs that usually show up early in a compromise, and tells you what it found. No daemon. No database. No cloud dashboard. Just one bash script, your cron table, and flat files on the box itself.
+Capture a known-good baseline with vorwatch baseline. Run a detection pass — file integrity, listening ports, outbound connections, process trees, package vulnerabilities, rootkit signatures, hardening drift — with vorwatch check. Wire it up to run on its own with vorwatch install. Pull a text or JSON summary anytime with vorwatch report, or let it land in your inbox on a schedule. It's recommend-only by design — Vörwatch never bans, blocks, or touches iptables. Every alert tells you the exact command to run yourself.
+https://github.com/Vektor-Memory/Vorwatch
 
 > *Open source. Free. Apache 2.0.*
 <div style="border-left:2px solid var(--color-border-secondary);padding:0 0 0 1rem;margin:0 0 1.5rem">
@@ -155,6 +154,11 @@ https://github.com/Vektor-Memory/Provenance
   <span style="font-size:13px;color:var(--color-text-secondary)">Node.js 18+</span>
   <span style="font-size:13px;color:var(--color-text-secondary)">Windows · macOS · Linux</span>
   <span style="font-size:13px;color:var(--color-text-secondary)">Zero runtime dependencies</span>
+</div>
+</div>
+<div align="center">
+<div style="text-align:center;padding:2rem 0 1.5rem">
+  <h1 style="font-size:22px;font-weight:500;margin:0 0 4px">Provenance</h1>
 </div>
 </div>
 Vörwatch
