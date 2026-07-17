@@ -100,6 +100,8 @@ Zero dependencies. Node.js 18+. Runs on Windows, macOS, and Linux.
 
 [github.com/Vektor-Memory/Vex](https://github.com/Vektor-Memory/Vex)
 
+<br />
+
 ---
 
 <div align="center">
@@ -114,6 +116,8 @@ Vek-sync is a standalone CLI tool that keeps your MCP (Model Context Protocol) s
 Define your servers once in .mcp.json. Push to every editor with one command. Pull from any editor to bootstrap the file. Store secrets safely in an encrypted local vault.
 
 https://github.com/Vektor-Memory/Vek-Sync
+
+<br />
 
 ---
 <div align="center">
@@ -132,6 +136,9 @@ Stamp proprietary headers into every file with `prov stamp`. Snapshot the codeba
 https://github.com/Vektor-Memory/Provenance
 </div>
 </div>
+<br />
+
+---
 <div align="center">
 <div style="text-align:center;padding:2rem 0 1.5rem">
   <h1 style="font-size:22px;font-weight:500;margin:0 0 4px">Vörwatch</h1>
@@ -150,9 +157,11 @@ https://github.com/Vektor-Memory/Vorwatch
 
 </div>
 </div>
+<br />
+
+---
 <div align="center">
 
-<div align="center">
 
 # Via
 
@@ -165,6 +174,8 @@ Via is the universal integration layer for AI tools. It connects Claude, Cursor,
 `Node.js 18+` · `Windows · macOS · Linux` · `Zero runtime dependencies`
 
 </div>
+</div>
+<br />
 
 ---
 
