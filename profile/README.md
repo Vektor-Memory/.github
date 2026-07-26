@@ -11,7 +11,8 @@
 
 **[Documentation](https://vektormemory.com/docs) · [Install](#install) · [Quick Start](#quick-start) · [MCP Tools](#mcp-tools) · [Pricing](https://vektormemory.com/product#pricing)**
 
-<img width="1877" height="738" alt="banner1" src="https://github.com/user-attachments/assets/2011f985-a584-4c28-aa0f-08c786edd109" />
+<img width="2048" height="1152" alt="vektor banner-large" src="https://github.com/user-attachments/assets/98916fff-c322-4423-b7ce-0dc141c3ed25" />
+<div align="center">
 
 <div align="center">
 
