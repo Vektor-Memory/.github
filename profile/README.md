@@ -193,7 +193,7 @@ SQLite locally for everything. No embeddings, no API calls, no cloud. The memory
 
 <div align="center">
 
-Built on peer-reviewed research · LongMemEval 81% · LoCoMo 66.9% · sub-28ms recall
+Built on peer-reviewed research · LongMemEval 84% · LoCoMo 66.9% · sub-28ms recall
 
 [hello@vektormemory.com](mailto:hello@vektormemory.com) · [Security](https://vektormemory.com/security) · [Privacy](https://vektormemory.com/privacy)
 
