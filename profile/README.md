@@ -6,10 +6,10 @@
 
 ### Local-first memory for AI agents that lasts between sessions.
 
-[![LongMemEval](https://img.shields.io/badge/LongMemEval_oracle-89.6%25-854F0B?style=flat-square&v=2)](https://vektormemory.com/research)
-[![recall latency](https://img.shields.io/badge/recall-~4ms-0F6E56?style=flat-square)](https://vektormemory.com/research)
-[![license](https://img.shields.io/badge/license-Commercial-533AB7?style=flat-square)](https://vektormemory.com/product#pricing)
-[![MCP tools](https://img.shields.io/badge/MCP_tools-80%2B-185FA5?style=flat-square&v=2)](https://vektormemory.com/docs/dxt)
+[![LongMemEval](https://raw.githubusercontent.com/Vektor-Memory/.github/main/profile/badges/longmemeval.svg)](https://vektormemory.com/research)
+[![recall latency](https://raw.githubusercontent.com/Vektor-Memory/.github/main/profile/badges/recall.svg)](https://vektormemory.com/research)
+[![license](https://raw.githubusercontent.com/Vektor-Memory/.github/main/profile/badges/license.svg)](https://vektormemory.com/product#pricing)
+[![MCP tools](https://raw.githubusercontent.com/Vektor-Memory/.github/main/profile/badges/mcp-tools.svg)](https://vektormemory.com/docs/dxt)
 
 **[Download](https://vektormemory.com/downloads) · [Documentation](https://vektormemory.com/docs) · [Pricing](https://vektormemory.com/product#pricing) · [Slipstream README](https://github.com/Vektor-Memory/Vektor-memory)**
 
