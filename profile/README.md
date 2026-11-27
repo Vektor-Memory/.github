@@ -2,10 +2,12 @@
 
 # VEKTOR MEMORY
 
+<img width="480" height="270" alt="vektor memeory ad 23rd nov" src="https://github.com/user-attachments/assets/32c4a591-ae27-427d-a221-7fbc5123de31" />
+
 ### Vector memory for agentic AI. Local-first. Privacy Enhanced Technology. Data Sovereignty.
-[![Longmemeeval benchmark](https://img.shields.io/badge/longmemeval-84%25-854F0B?style=flat-square)](https://arxiv.org/abs/2605.12493)
+[![Longmemeeval benchmark](https://img.shields.io/badge/longmemeval-89.6%25-854F0B?style=flat-square)](https://arxiv.org/abs/2605.12493)
 [![LoCoMo benchmark](https://img.shields.io/badge/LoCoMo-66.9%25-854F0B?style=flat-square)](https://arxiv.org/abs/2402.17753)
-[![recall latency](https://img.shields.io/badge/recall-sub--28ms-0F6E56?style=flat-square)](#performance)
+[![recall latency](https://img.shields.io/badge/recall-sub--4ms-0F6E56?style=flat-square)](#performance)
 [![license](https://img.shields.io/badge/license-Commercial-533AB7?style=flat-square)](https://vektormemory.com/product#pricing)
 [![MCP tools](https://img.shields.io/badge/MCP_tools-60+-185FA5?style=flat-square)](#mcp-tools)
 
