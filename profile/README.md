@@ -27,7 +27,7 @@ A memory SDK, CLI and MCP server, with a Windows app.
 
 - Memories in local SQLite, embedded on your machine
 - Hybrid recall: BM25 and vector search, fused with Reciprocal Rank Fusion
-- A graph of semantic, causal, temporal and entity links
+- A five-layer graph: semantic, causal, temporal, entity and procedural links
 - Each write is added, updated, deleted or skipped against existing memories
 
 Commercial licence, from $9 a month. Download it from [vektormemory.com](https://vektormemory.com/downloads).
